@@ -1,0 +1,214 @@
+Country,Region,GDP
+World,—,109529216.0
+United States,Americas,28781083.0
+China,Asia,18532633.0
+Germany,Europe,4591100.0
+Japan,Asia,4110452.0
+India,Asia,3937011.0
+United Kingdom,Europe,3495261.0
+France,Europe,3130014.0
+Brazil,Americas,2331391.0
+Italy,Europe,2328028.0
+Canada,Americas,2242182.0
+Russia,Europe,2056844.0
+Mexico,Americas,2017025.0
+Australia,Oceania,1790348.0
+South Korea,Asia,1760947.0
+Spain,Europe,1647114.0
+Indonesia,Asia,1475690.0
+Netherlands,Europe,1142513.0
+Turkey,Asia,1113561.0
+Saudi Arabia,Asia,1106015.0
+Switzerland,Europe,938458.0
+Poland,Europe,844623.0
+Taiwan,Asia,802958.0
+Belgium,Europe,655192.0
+Sweden,Europe,623048.0
+Argentina,Americas,604260.0
+Ireland,Europe,564020.0
+Thailand,Asia,548890.0
+Austria,Europe,540887.0
+Israel,Asia,530664.0
+United Arab Emirates,Asia,527796.0
+Norway,Europe,526951.0
+Singapore,Asia,525230.0
+Philippines,Asia,471516.0
+Vietnam,Asia,465814.0
+Iran,Asia,464181.0
+Bangladesh,Asia,455162.0
+Malaysia,Asia,445519.0
+Denmark,Europe,409989.0
+Hong Kong,Asia,406775.0
+Colombia,Americas,386076.0
+South Africa,Africa,373233.0
+Romania,Europe,369971.0
+Egypt,Africa,347594.0
+Pakistan,Asia,338237.0
+Chile,Americas,333760.0
+Czech Republic,Europe,325880.0
+Finland,Europe,308055.0
+Portugal,Europe,298949.0
+Kazakhstan,Asia,296740.0
+Peru,Americas,282458.0
+Algeria,Africa,266780.0
+Iraq,Asia,265894.0
+New Zealand,Oceania,257626.0
+Nigeria,Africa,252738.0
+Greece,Europe,250276.0
+Qatar,Asia,244686.0
+Hungary,Europe,223413.0
+Ethiopia,Africa,205130.0
+Ukraine,Europe,188943.0
+Kuwait,Asia,160397.0
+Morocco,Africa,152377.0
+Slovakia,Europe,140808.0
+Dominican Republic,Americas,127356.0
+Cuba,Americas,107350.0
+Ecuador,Americas,121592.0
+Puerto Rico,Americas,117763.0
+Guatemala,Americas,110035.0
+Oman,Asia,108927.0
+Bulgaria,Europe,107933.0
+Kenya,Africa,104001.0
+Venezuela,Americas,102328.0
+Uzbekistan,Asia,97956.0
+Costa Rica,Americas,96058.0
+Angola,Africa,92123.0
+Luxembourg,Europe,88556.0
+Croatia,Europe,88076.0
+Panama,Americas,87347.0
+Ivory Coast,Africa,86911.0
+Uruguay,Americas,82605.0
+Turkmenistan,Asia,81896.0
+Serbia,Europe,81873.0
+Lithuania,Europe,81170.0
+Tanzania,Africa,79605.0
+Azerbaijan,Asia,78749.0
+Ghana,Africa,75244.0
+Sri Lanka,Asia,74404.0
+DR Congo,Africa,73761.0
+Slovenia,Europe,72101.0
+Belarus,Europe,69048.0
+Myanmar,Asia,68006.0
+Uganda,Africa,56310.0
+Tunisia,Africa,54708.0
+Macau,Asia,54677.0
+Jordan,Asia,53570.0
+Cameroon,Africa,53205.0
+Bolivia,Americas,49334.0
+Libya,Africa,48221.0
+Bahrain,Asia,46790.0
+Paraguay,Americas,45817.0
+Latvia,Europe,45466.0
+Cambodia,Asia,45150.0
+Nepal,Asia,44179.0
+Estonia,Europe,43486.0
+Lebanon,Asia,37945.0
+Honduras,Americas,37355.0
+Senegal,Africa,35450.0
+El Salvador,Americas,35333.0
+Zimbabwe,Africa,34405.0
+Cyprus,Asia,34221.0
+Iceland,Europe,33338.0
+Georgia,Asia,32865.0
+Papua New Guinea,Oceania,31716.0
+Zambia,Africa,29872.0
+Bosnia and Herzegovina,Europe,29078.0
+Trinidad and Tobago,Americas,28365.0
+Sudan,Africa,26865.0
+Guinea,Africa,25447.0
+Albania,Europe,25431.0
+Armenia,Asia,25408.0
+Haiti,Americas,24046.0
+Mozambique,Africa,22975.0
+Malta,Europe,22737.0
+Mongolia,Asia,21943.0
+Burkina Faso,Africa,21902.0
+Mali,Africa,21662.0
+Botswana,Africa,21418.0
+Benin,Africa,21371.0
+Guyana,Americas,21178.0
+Gabon,Africa,21013.0
+Jamaica,Americas,20098.0
+Syria,Asia,19719.0
+Palestine,Asia,18109.0
+Nicaragua,Americas,18829.0
+Niger,Africa,18816.0
+Chad,Africa,18697.0
+Moldova,Europe,18356.0
+Yemen,Asia,16940.0
+North Korea,Asia,16750.0
+Madagascar,Africa,16465.0
+Mauritius,Africa,16359.0
+North Macedonia,Europe,15873.0
+Brunei,Asia,15510.0
+Congo,Africa,15501.0
+Laos,Asia,15190.0
+Afghanistan,Asia,14939.0
+Bahamas,Americas,14390.0
+Rwanda,Africa,13701.0
+Kyrgyzstan,Asia,13599.0
+Tajikistan,Asia,12953.0
+Somalia,Africa,12804.0
+Namibia,Africa,12765.0
+Kosovo,Europe,11318.0
+Malawi,Africa,11241.0
+Equatorial Guinea,Africa,10708.0
+Mauritania,Africa,10628.0
+New Caledonia,Oceania,10071.0
+Togo,Africa,9832.0
+Monaco,Europe,8596.0
+Montenegro,Europe,8011.0
+Bermuda,Americas,7551.0
+Maldives,Asia,7199.0
+Barbados,Americas,6863.0
+South Sudan,Africa,6517.0
+French Polynesia,Oceania,6055.0
+Cayman Islands,Americas,5809.0
+Fiji,Oceania,5801.0
+Eswatini,Africa,5085.0
+Liberia,Africa,4754.0
+Sierra Leone,Africa,4558.0
+Djibouti,Africa,4364.0
+Suriname,Americas,4337.0
+Aruba,Americas,4069.0
+Andorra,Europe,3897.0
+Belize,Americas,3296.0
+Greenland,Americas,3273.0
+Bhutan,Asia,3110.0
+Burundi,Africa,3075.0
+Central African Republic,Africa,2810.0
+Cape Verde,Africa,2718.0
+Curaçao,Americas,2700.0
+Gambia,Africa,2694.0
+Saint Lucia,Americas,2582.0
+Lesotho,Africa,2395.0
+Eritrea,Africa,2255.0
+Seychelles,Africa,2203.0
+Guinea-Bissau,Africa,2151.0
+Antigua and Barbuda,Americas,2127.0
+Zanzibar,Africa,2080.0
+San Marino,Europe,2034.0
+East Timor,Asia,1992.0
+Solomon Islands,Oceania,1707.0
+Sint Maarten,Americas,1572.0
+British Virgin Islands,Americas,1539.0
+Comoros,Africa,1422.0
+Grenada,Americas,1406.0
+Vanuatu,Oceania,1289.0
+Turks and Caicos Islands,Americas,1139.0
+Saint Kitts and Nevis,Americas,1134.0
+Saint Vincent and the Grenadines,Americas,1128.0
+Samoa,Oceania,1024.0
+São Tomé and Príncipe,Africa,751.0
+Dominica,Americas,708.0
+Tonga,Oceania,581.0
+Micronesia,Oceania,484.0
+Cook Islands,Oceania,328.0
+Kiribati,Oceania,311.0
+Palau,Oceania,308.0
+Marshall Islands,Oceania,305.0
+Anguilla,Americas,303.0
+Nauru,Oceania,161.0
+Montserrat,Americas,72.0
+Tuvalu,Oceania,66.0
